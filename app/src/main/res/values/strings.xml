@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Editbox_with_eye</string>
+    <string name="tv1_value">Custom Edit Box</string>
+    <string name="tv2_value">EditBox with ImageButton</string>
+</resources>
